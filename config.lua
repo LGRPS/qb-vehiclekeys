@@ -1,5 +1,5 @@
 Config = {}
-Config.Rob = true -- Enables robbing AI cars at gunpoint
+Config.Rob = false -- Enables robbing AI cars at gunpoint
 -- All chances are 0-1 <= so lower == less chance, higher == higher chance
 Config.HotwireChance = 0.5 -- Chance for successful hotwire or not
 Config.RemoveLockpickNormal = 0.5 -- Chance to remove lockpick on fail
